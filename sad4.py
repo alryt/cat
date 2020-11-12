@@ -37,3 +37,4 @@ for formatt in km:
         
         open (kmpath + '//' + fotoname, 'wb').write(r.content)
     
+#Hello! Help me with my code!
