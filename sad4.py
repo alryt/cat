@@ -1,4 +1,4 @@
-import pathlib
+import pathlib //я тоже
 import shutill
 
 path = str(pathlib.Path().absolute())
